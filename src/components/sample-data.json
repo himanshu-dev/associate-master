@@ -1,0 +1,16 @@
+{
+  "associateList": [
+    {
+      "id": 1,
+      "name": "Himanshu Sharma",
+      "phone": "2323232323",
+      "address": "Noida sector 45, 201301"
+    },
+    {
+      "id": 2,
+      "name": "Himanshu Sharma",
+      "phone": "2323232323",
+      "address": "Noida sector 45, 201301"
+    }
+  ]
+}

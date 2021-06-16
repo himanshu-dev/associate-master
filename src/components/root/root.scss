@@ -1,0 +1,51 @@
+@import "../../../public/assets/css/colors";
+
+// global styles
+
+
+@font-face {
+  font-family: 'Sofia Pro';
+  src: url('/assets/fonts/Sofia/Sofia Pro Regular Az.otf') format('opentype');
+
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Medium';
+  src: url('/assets/fonts/Sofia/Sofia Pro Medium Az.otf') format('opentype');
+
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Semi Bold';
+  src: url('/assets/fonts/Sofia/Sofia Pro Semi Bold Az.otf') format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Bold';
+  src: url('/assets/fonts/Sofia/Sofia Pro Bold Az.otf') format('opentype');
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Sofia Pro Light';
+  src: url('/assets/fonts/Sofia/Sofia Pro Light Az.otf') format('opentype');
+  font-weight: lighter;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-family: "Sofia Pro";
+  //background-color: $colorlightGrayPrimary;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+  font-size: 14px;
+}
